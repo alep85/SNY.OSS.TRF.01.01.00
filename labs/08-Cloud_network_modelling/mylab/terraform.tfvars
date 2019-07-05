@@ -1,0 +1,5 @@
+CREDENTIAL_FILE="/home/vagrant/devopsprojectal-5b0054c16bf6.json"
+PROJECT_ID="devopsprojectal"
+REGION="us-west1"
+ZONE="a"
+VM_USERNAME="amedeo_lepore"
