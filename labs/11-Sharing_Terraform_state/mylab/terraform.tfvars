@@ -1,0 +1,5 @@
+CREDENTIAL_FILE="/home/vagrant/devopsprojectal-cb587af8774d.json"
+PROJECT_ID="devopsprojectal"
+REGION="us-west1"
+ZONE="a"
+VM_USERNAME="alep85"
